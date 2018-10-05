@@ -1,0 +1,14 @@
+- one page web, simplicity is better.
+
+- desain terbaik dilihat melalui browser google chrome 
+
+- fullsize ( sorry, not setting for responsive (not in rules) ).
+
+- min width: 1366px;
+
+- all images and fonts are free.
+
+- ide dan desain oleh Team Fuzzy. Copyright 2017
+
+
+
